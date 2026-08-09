@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=20344f&height=250&section=header&text=Hallo,%20ich%20bin%20Stephan!&fontSize=60&fontColor=e0ff01&animation=fadeIn" width="100%"/>
 </div>
 
-<h2 align="center"> IT-Fachkraft für Data Science & AI | E-Commerce Manager </h2>
+<h2 align="center">Data Science & AI | E-Commerce Manager </h2>
 
 <div align="center">
   <i>"Verbindet analytische Präzision mit realen Business- und E-Commerce-Zielen."</i><br><br>
@@ -12,7 +12,7 @@
 ---
 
 ### Über mich
-Ich absolviere aktuell eine 12-monatige Intensiv-Weiterbildung zur **IT-Fachkraft für Data Science & AI** an der WBS Coding School. 
+Ich absolviere aktuell eine 12-monatige Intensiv-Weiterbildung zur **Für Data Science & AI** an der WBS Coding School. 
 Durch meinen fundierten Hintergrund im B2B E-Commerce, im Projektmanagement und in der industriellen Fertigung betrachte ich Daten nicht isoliert, sondern stets im Kontext der unternehmerischen Wertschöpfungskette.
 
 Mein Schwerpunkt liegt auf der Entwicklung von Machine Learning Modellen und Daten-Pipelines, die konkreten geschäftlichen Mehrwert liefern – von der Conversion-Optimierung über Abwanderungsprognosen (Churn Prediction) bis hin zur Automatisierung von Schnittstellen zu ERP-Systemen.
