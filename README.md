@@ -45,9 +45,12 @@
 ---
 
 ### 📈 GitHub Stats
+<!-- Der öffentliche Server für diese Stats (Vercel) ist leider aktuell wegen Überlastung pausiert. 
+Sobald er wieder online ist, kannst du diesen Block wieder einkommentieren!
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ch3fkoch&show_icons=true&hide_border=true&bg_color=20344f&title_color=e0ff01&text_color=edeef0&icon_color=e0ff01&count_private=true" alt="GitHub Stats" />
 </div>
+-->
 
 <br>
 <div align="center">
