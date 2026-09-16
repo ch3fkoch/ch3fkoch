@@ -5,7 +5,7 @@
 
 ---
 
-### 🛠️ Kern-Stack & Technologien
+### Kern-Stack & Technologien
 
 <p>
   <b>Data Science & Machine Learning:</b><br>
