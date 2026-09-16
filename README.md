@@ -1,74 +1,77 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=20344f&height=250&section=header&text=Hallo,%20ich%20bin%20Stephan!&fontSize=60&fontColor=e0ff01&animation=fadeIn" width="100%"/>
-</div>
+# Stephan Koch
+### Data Scientist & Software Developer // Applied AI & Quantitative Systems
 
-<h2 align="center">Data Science & AI | E-Commerce Manager </h2>
-
-<div align="center">
-  <i>"Verbindet analytische Präzision mit realen Business- und E-Commerce-Zielen."</i><br><br>
-  <a href="http://heimdallai.duckdns.org/"><img src="https://img.shields.io/badge/Project-HEIMDALL%20AI-20344f?style=for-the-badge&logo=shield&logoColor=e0ff01"></a>
-</div>
+> *"Für mich beginnt Data Science dort, wo datengestützte Logik in funktionierende, wartbare Software übergeht. Ich betrachte Datenströme nicht isoliert, sondern baue praxistaugliche Systeme, die messbare Ergebnisse liefern."*
 
 ---
 
-### Über mich
-Ich absolviere aktuell eine 12-monatige Intensiv-Weiterbildung zur **Für Data Science & AI** an der WBS Coding School. 
-Durch meinen fundierten Hintergrund im B2B E-Commerce, im Projektmanagement und in der industriellen Fertigung betrachte ich Daten nicht isoliert, sondern stets im Kontext der unternehmerischen Wertschöpfungskette.
+### 🛠️ Kern-Stack & Technologien
 
-Mein Schwerpunkt liegt auf der Entwicklung von Machine Learning Modellen und Daten-Pipelines, die konkreten geschäftlichen Mehrwert liefern – von der Conversion-Optimierung über Abwanderungsprognosen (Churn Prediction) bis hin zur Automatisierung von Schnittstellen zu ERP-Systemen.
+<p>
+  <b>Data Science & Machine Learning:</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/ChromaDB-00f0ff?style=flat-square&logo=database&logoColor=black" alt="ChromaDB">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
 
-**Aktuelle Zertifizierungs-Ziele:** 
-- PCEP (Certified Entry-Level Python Programmer)
-- Microsoft Azure Data Fundamentals (DP-900)
-- Scikit-learn Associate Practitioner
+<p>
+  <b>Data Engineering & Databases:</b><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL_(3NF)-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="PowerBI">
+</p>
+
+<p>
+  <b>Backend, Cloud & Infrastructure:</b><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP">
+  <img src="https://img.shields.io/badge/Rocky_Linux_9-10B981?style=flat-square&logo=linux&logoColor=white" alt="Rocky Linux">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
 ---
 
-### Ausgewählte Projekte
+### Technische Schwerpunkte
 
-**E-Com KNN (Predictive Analytics)**
-Ein Data-Science-Projekt zur Vorhersage von Kaufwahrscheinlichkeiten. Das Projekt demonstriert den Einsatz von Künstlichen Neuronalen Netzen (MLPClassifier) zur Identifikation von "Wackelkandidaten" für Smart Vouchers, nutzt Isolation Forests zur Bot-Erkennung und wendet Feature Selection an, um Serverkosten zu senken.
-
-**Svalinn PII Security Gateway**
-Eine interaktive Architektur-Simulation aus dem Projekt HEIMDALL AI. Die Anwendung veranschaulicht Live-Datenanonymisierung (PII), Verschlüsselungs-Routing und Multi-Agent-Systeme in einer modernen, sicheren Umgebung.
-
-**Cortex Markdown Studio**
-Ein serverloses, rein clientseitiges Markdown-Studio mit einer modernen "Living Neural Network" UI. Es demonstriert tiefgreifendes Verständnis für Frontend-Architektur, lokalen Dateisystem-Zugriff und reaktive Komponentenstrukturen ohne auf schwere Frameworks angewiesen zu sein.
+* **Predictive Modeling & Machine Learning:** Konzeption robuster ML-Pipelines in Python (Scikit-learn, Pandas, NumPy), Zeitreihenprognosen, Klassifikations- und Clustering-Modelle, Feature Selection und Outlier-Handling.
+* **Relationales Datenbank- & Query-Engineering:** Relationales Datenbankschema-Design in 3. Normalform (3NF), Performance-Tuning analytischer SQL-Abfragen via Window Functions (`DENSE_RANK`, `PARTITION BY`), Index-Optimierung und ETL-Datenbereinigung.
+* **Applied AI & Autonomous Systems:** Entwicklung von Retrieval-Augmented Generation (RAG) Architekturen mit Vektordatenbanken (ChromaDB), episodischer Gedächtniskonsolidierung und REST-API-Schnittstellen (FastAPI, Flask) unter Linux/NGINX.
 
 ---
 
-### Tech Stack & Werkzeuge
+### Ausgewählte Architekturen & Repositories
 
-**Data Science & Machine Learning**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+#### [TradePilot](https://github.com/ch3fkoch) // Quantitative Time-Series & Backtesting Engine
+* **Fokus:** Algorithmische Signalanalyse volatiler Finanzzeitreihen.
+* **Architektur:** Modulare Python-Engine mit Multi-Faktor-Indikatoren (RSI, Bollinger, ATR-Risikomanagement) und integriertem Backtesting-Framework zur Validierung statistischer Kennzahlen (Sharpe Ratio, Max Drawdown).
+* **Tech-Stack:** `Python`, `Pandas`, `NumPy`, `Flask`, `SQLite (3NF)`
 
-**Data Analytics & Databases**<br>
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+#### [Project JOI](https://github.com/ch3fkoch) // Modular Cognitive Assistant & Enterprise RAG
+* **Fokus:** Kontextsensitives KI-Assistenzsystem zur Minimierung von Halluzinationen.
+* **Architektur:** Semantische Vektorsuche via ChromaDB (Cosine-Similarity > 0.88), Zero-Trust-Schnittstellen, POSIX-Sicherheitsstandards und automatisierte Konsolidierungszyklen zur Wissensverankerung.
+* **Tech-Stack:** `Python`, `ChromaDB`, `Gemini API`, `FastAPI`, `AES-256-GCM`, `Rocky Linux`
 
-**Cloud & Infrastructure**<br>
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### [e_com_KNN](https://github.com/ch3fkoch/e_com_KNN) // Predictive E-Commerce Analytics
+* **Fokus:** Vorhersage von Kaufabbrüchen und Intent-Erkennung in Webshop-Transaktionsdaten.
+* **Architektur:** End-to-End-Pipeline mit Klassifikations- und Clustering-Modellen (MLPClassifier, KNN), Bot-Erkennung via Isolation Forests und Kostenreduktion durch gezielte Feature Selection.
+* **Tech-Stack:** `Python`, `Scikit-learn`, `Pandas`, `Seaborn`, `Jupyter Notebook`
 
-**Web-Entwicklung**<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+#### [api_explorer](https://github.com/ch3fkoch/api_explorer) // Zero-Trust Security Gateway
+* **Fokus:** Interaktive Developer-Console für sensible Schnittstellen.
+* **Architektur:** Simulation von Live-PII-Anonymisierung, Multi-Agenten-Debatten und kryptografischem Routing unter Einhaltung strenger POSIX-Dateirechte.
+* **Tech-Stack:** `JavaScript`, `REST-APIs`, `Zero-Trust`, `Chaos Engineering`
 
-**ERP, CAD/CAM & Business Tools**<br>
-![ProAlpha](https://img.shields.io/badge/ProAlpha_ERP-005073?style=for-the-badge)
-![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![WorkNC](https://img.shields.io/badge/WorkNC_CAM-52627b?style=for-the-badge)
+---
 
-<br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=20344f&height=100&section=footer" width="100%"/>
-  <p>© 2026 Project HEIMDALL AI by Stephan Koch</p>
+  <sub>© 2026 by Stephan Koch</sub>
 </div>
